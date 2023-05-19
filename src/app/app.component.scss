@@ -1,0 +1,47 @@
+.main{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    img{
+        height: 350px;
+    }
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-div{
+    text-align: center;
+}
+#title{
+    margin-bottom: 50px;
+    font-weight: 800;
+}
+.input-feilds{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    margin-right: 10px;
+    font-size: 30px;
+}
+.form-check-input{
+    margin-right: 10px;
+}
+.img-div img{
+    height: 48vh;
+    width: auto;
+}
+#form-btn{
+    width: 100px;
+    margin-top: 12px;
+}
+#terms{
+    text-decoration: none;
+}
